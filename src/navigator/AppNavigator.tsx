@@ -5,6 +5,7 @@ const AppNavigator = () => {
   return (
     <View>
       <Text>AppNavigator</Text>
+      <Text>JJJ</Text>
     </View>
   )
 }
