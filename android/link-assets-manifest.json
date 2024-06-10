@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/BubblegumSans-Regular.ttf",
+      "sha1": "59d2f0ba7152be179faedefab35965d8cc28a94c"
+    },
+    {
+      "path": "src/assets/fonts/JellyBelly.ttf",
+      "sha1": "fe500b038db490141eec4e09ffcbd624318d7bb9"
+    },
+    {
+      "path": "src/assets/fonts/Pacifico-Regular.ttf",
+      "sha1": "baca1fca7fe74b61cb33aa0da48ec1a3a77bcf49"
+    }
+  ]
+}
